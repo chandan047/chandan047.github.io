@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Goal-Oriented Information Extraction in Spoken Dialogue Systems
+description: Goal-Oriented Information Extraction in Spoken Dialogue Systems
 img:
 importance: 3
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: Fashion Recognition and Retrieval
+description: Fashion Recognition and Retrieval
 img: /assets/img/1.jpg
 importance: 3
 ---

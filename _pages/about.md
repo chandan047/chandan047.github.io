@@ -8,17 +8,13 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>State College, PA</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a `Machine Learning engineer` passionate about building robust intelligent systems. I am pursuing `M.S.` in `Computer Science` at [Penn State University](https://www.eecs.psu.edu/){:target="\_blank"}, focusing on deep learning, Computer Vision, and NLP. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I also have four years of work experience in [Samsung Research India](https://research.samsung.com/sri-d){:target="\_blank"} as `SDE`, where I worked on exciting research projects in deep learning and remote-healthcare for 2 years. I completed my B.Tech in Computer Science and Engineering at [Indian Institute of Technology, Madras](www.iitm.cse.ac.in){:target="\_blank"}.

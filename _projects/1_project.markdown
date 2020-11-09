@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Object Tracking with Capsule Networks
+description: Object Tracking with Capsule Networks
 img: /assets/img/12.jpg
 importance: 1
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: Few-Shot Named Entity Recognition
+description: Few-Shot Named Entity Recognition
 img:
 importance: 4
 ---
