@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications
+title: publications
 description: Publications in reversed chronological order
 years: [2020]
 nav: true
